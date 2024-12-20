@@ -26,6 +26,6 @@ This Flask-based application predicts whether a shipment will be delayed based o
 2. Navigate to the project directory:
    ```bash
    cd DeliveryDelayPrediction
-pip install -r requirements.txt
-python app.py
-http://127.0.0.1:5000/
+1. pip install -r requirements.txt
+2. python app.py
+3. http://127.0.0.1:5000/
